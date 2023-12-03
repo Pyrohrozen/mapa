@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1701282705 source:c:\users\marti\onedrive\dokumenty\Škola\avsi\7.semestr\programování inženýrských aplikací i\mapa\terrain-pyrohrozen-main\mapa\path.cpp
+	"Path.h"
+	<cmath>
+	<fstream>
+	<iostream>
+
+1701282705 c:\users\marti\onedrive\dokumenty\Škola\avsi\7.semestr\programování inženýrských aplikací i\mapa\terrain-pyrohrozen-main\mapa\path.h
+	"TerrainMap.h"
+
+1701290737 c:\users\marti\onedrive\dokumenty\Škola\avsi\7.semestr\programování inženýrských aplikací i\mapa\terrain-pyrohrozen-main\mapa\terrainmap.h
+	<cmath>
+	<vector>
+	<string>
+
+1701282705 source:c:\users\marti\onedrive\dokumenty\Škola\avsi\7.semestr\programování inženýrských aplikací i\mapa\terrain-pyrohrozen-main\mapa\terrainmap.cpp
+	"TerrainMap.h"
+	<fstream>
+	<exception>
+	<iostream>
+	<numeric>
+
+1701293933 source:c:\users\marti\onedrive\dokumenty\Škola\avsi\7.semestr\programování inženýrských aplikací i\mapa\terrain-pyrohrozen-main\mapa\letadlo.cpp
+	"Path.h"
+	"TerrainMap.h"
+	<queue>
+	<cmath>
+	<iostream>
+
+1701344613 source:c:\users\marti\onedrive\dokumenty\Škola\avsi\7.semestr\programování inženýrských aplikací i\mapa\terrain-pyrohrozen-main\mapa\main.cpp
+	"TerrainMap.h"
+	"Path.h"
+	<vector>
+	<iostream>
+	<string>
+	"letadlo.cpp"
+	"lod.cpp"
+	"silnice.cpp"
+
+1701293933 c:\users\marti\onedrive\dokumenty\Škola\avsi\7.semestr\programování inženýrských aplikací i\mapa\terrain-pyrohrozen-main\mapa\letadlo.cpp
+	"Path.h"
+	"TerrainMap.h"
+	<queue>
+	<cmath>
+	<iostream>
+
+1701295002 source:c:\users\marti\onedrive\dokumenty\Škola\avsi\7.semestr\programování inženýrských aplikací i\mapa\terrain-pyrohrozen-main\mapa\lod.cpp
+	"Path.h"
+	"TerrainMap.h"
+	<queue>
+	<cmath>
+	<iostream>
+
+1701295002 c:\users\marti\onedrive\dokumenty\Škola\avsi\7.semestr\programování inženýrských aplikací i\mapa\terrain-pyrohrozen-main\mapa\lod.cpp
+	"Path.h"
+	"TerrainMap.h"
+	<queue>
+	<cmath>
+	<iostream>
+
+1701295992 c:\users\marti\onedrive\dokumenty\Škola\avsi\7.semestr\programování inženýrských aplikací i\mapa\terrain-pyrohrozen-main\mapa\silnice.cpp
+	"Path.h"
+	"TerrainMap.h"
+	<queue>
+	<cmath>
+	<iostream>
+
+1701295992 source:c:\users\marti\onedrive\dokumenty\Škola\avsi\7.semestr\programování inženýrských aplikací i\mapa\terrain-pyrohrozen-main\mapa\silnice.cpp
+	"Path.h"
+	"TerrainMap.h"
+	<queue>
+	<cmath>
+	<iostream>
+
